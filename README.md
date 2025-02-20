@@ -1,3 +1,3 @@
-# Curso Linguagem C , C++ e Orientação a Objetos
+# Curso Linguagem C , C++ e POO
 
 <img src="/assets/capa.png">
